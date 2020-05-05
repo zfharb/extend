@@ -36,4 +36,4 @@ npm run test:head
 
 * Ensure the link next to 'Surpassed by' would take you to the page for the World Trade Center (North tower)
 
-* Each photo thumbnail on the page should have an icon in the caption below it (<div class="magnify">). Write a test to verify if this requirement has been met.
+* Each photo thumbnail on the page should have an icon in the caption below it (`<div class="magnify">`). Write a test to verify if this requirement has been met.
