@@ -37,3 +37,13 @@ npm run test:head
 * Ensure the link next to 'Surpassed by' would take you to the page for the World Trade Center (North tower)
 
 * Each photo thumbnail on the page should have an icon in the caption below it (`<div class="magnify">`). Write a test to verify if this requirement has been met.
+
+# Submission
+---
+* Submit a PR in your repository, with a descriptive message, and no more than a few commits (each with a clear purpose)
+
+* In your private repository, add `m-schrepel` as a collaborator, and send an email to matthew@extend.com with a link to your repository
+
+* Before the next interview, we will provide PR feedback, to give you a chance to improve your solution before the call
+
+* Feel free to ask questions via email, as we want to simulate working with the team
