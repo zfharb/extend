@@ -9,7 +9,7 @@ class FormPage extends Page {
     setSearchText (text) {
         this.searchInput.setValue(text)
     }
-    submit () {
+    search () {
         this.searchInputButton.click()
     }
 }
