@@ -42,7 +42,7 @@ npm run test:head
 ---
 * Submit a PR in your repository, with a descriptive message, and no more than a few commits (each with a clear purpose)
 
-* In your private repository, add `m-schrepel` as a collaborator, and send an email to [mailto](mailto:matthew@extend.com) with a link to your repository
+* In your private repository, add `m-schrepel` as a collaborator, and send an email to [matthew@extend.com](mailto:matthew@extend.com) with a link to your repository
 
 * Before the next interview, we will provide PR feedback, to give you a chance to improve your solution before the call
 
