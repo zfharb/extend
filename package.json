@@ -20,7 +20,7 @@
   },
   "scripts": {
     "test": "wdio wdio.local.conf.js",
-    "test:head": "HAS_HEAD=true wdio wdio.local.conf.js"
+    "test:head": "wdio wdio.local.conf.js"
   },
   "dependencies": {},
   "devDependencies": {
